@@ -51,12 +51,12 @@ the above is the RealTime Pacer block.
 
 this block  force the simulation to run in real (wall clock) time
 
-// the zipped file is uploaded on the top left//
+***the zipped file is uploaded on the top left***
 
 the file contains the library and the example file.
 
 
-// the project explained//
+***the project explained****
 
 
 the wheels block contains 2 states: the on and the off.
