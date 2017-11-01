@@ -1,5 +1,6 @@
 
 
+
 # project2
 
 this is the README file for the project2 of Digital Control.
@@ -23,3 +24,11 @@ the SensorBlock control the six eyes.
 the roomba has six eyes. 
 
 each eye is going to read an obstacle. 
+
+![image](https://user-images.githubusercontent.com/31491698/32282929-3618647e-bee0-11e7-9ed0-a91b653c6963.png)
+
+the above is the WheelsBlock.
+
+the WheelsBlock is used to control the wheels of the roomba.
+
+this control if the roomba will turn right, left or reverse.
