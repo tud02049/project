@@ -1,6 +1,8 @@
 
 
 
+
+
 # project2
 
 this is the README file for the project2 of Digital Control.
@@ -32,3 +34,11 @@ the above is the WheelsBlock.
 the WheelsBlock is used to control the wheels of the roomba.
 
 this control if the roomba will turn right, left or reverse.
+
+![image](https://user-images.githubusercontent.com/31491698/32286981-88893f24-beec-11e7-90f1-b4938db549fa.png)
+
+this is the TemperatureBlock.
+
+the block has code to control the temperature.
+
+by changing the temperature putting the temperature to certain level we can get the roomba to run or stop.
