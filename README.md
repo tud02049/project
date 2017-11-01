@@ -3,6 +3,7 @@
 
 
 
+
 # project2
 
 this is the README file for the project2 of Digital Control.
@@ -42,3 +43,9 @@ this is the TemperatureBlock.
 the block has code to control the temperature.
 
 by changing the temperature putting the temperature to certain level we can get the roomba to run or stop.
+
+![image](https://user-images.githubusercontent.com/31491698/32288072-08ebabae-bef0-11e7-9f4d-87df0bd0409a.png)
+
+the above is the RealTime Pacer block.
+
+this block  force the simulation to run in real (wall clock) time
