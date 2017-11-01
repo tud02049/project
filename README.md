@@ -4,6 +4,7 @@
 
 
 
+
 # project2
 
 this is the README file for the project2 of Digital Control.
@@ -49,3 +50,20 @@ by changing the temperature putting the temperature to certain level we can get 
 the above is the RealTime Pacer block.
 
 this block  force the simulation to run in real (wall clock) time
+
+// the zipped file is uploaded on the top left//
+
+the file contains the library and the example file.
+
+
+// the project explained//
+
+
+the wheels block contains 2 states: the on and the off.
+
+for the project when the temperature is less than 80 the on state the roomba keep running.
+
+for temperature greater or equal to 80 the off state activate and the roomba stop.
+
+when running the roomba use the sensor to avoid the obstacle.
+
