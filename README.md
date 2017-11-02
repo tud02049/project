@@ -1,4 +1,4 @@
-
+![image](https://user-images.githubusercontent.com/31491698/32351821-f2faa24a-bfdb-11e7-878d-b9b6dd141e1d.png)
 
 
 
@@ -67,3 +67,18 @@ for temperature greater or equal to 80 the off state activate and the roomba sto
 
 when running the roomba use the sensor to avoid the obstacle.
 
+**THE EXAMPLE BLOCK**
+
+![image](https://user-images.githubusercontent.com/31491698/32351821-f2faa24a-bfdb-11e7-878d-b9b6dd141e1d.png)
+
+from left to right.
+
+the roombawifi is the input to the sensor block, the temperature block and the sensor block.
+
+the sensor block and the temperature block are input in the wheel block.
+
+the wheels are controled by the sensor and the temperature.
+
+at certain range of temperature the wheels stop and at certain other range the wheels keep turning.
+
+the real time pacer is the function that use the real clok time.
